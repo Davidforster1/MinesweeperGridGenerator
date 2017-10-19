@@ -1,0 +1,6 @@
+c:\users\dave\documents\visual studio 2015\Projects\Minesweeper Challenge\Minesweeper Challenge\bin\Debug\Minesweeper Challenge.exe.config
+c:\users\dave\documents\visual studio 2015\Projects\Minesweeper Challenge\Minesweeper Challenge\obj\Debug\Minesweeper Challenge.csprojResolveAssemblyReference.cache
+c:\users\dave\documents\visual studio 2015\Projects\Minesweeper Challenge\Minesweeper Challenge\bin\Debug\Minesweeper Challenge.exe
+c:\users\dave\documents\visual studio 2015\Projects\Minesweeper Challenge\Minesweeper Challenge\bin\Debug\Minesweeper Challenge.pdb
+c:\users\dave\documents\visual studio 2015\Projects\Minesweeper Challenge\Minesweeper Challenge\obj\Debug\Minesweeper Challenge.exe
+c:\users\dave\documents\visual studio 2015\Projects\Minesweeper Challenge\Minesweeper Challenge\obj\Debug\Minesweeper Challenge.pdb
