@@ -26,4 +26,4 @@ The checkMines function, which checks each location in the array for whether it 
 
 The displayGrid function, prints the array to the console using two for loops through the 2 dimensional grid array so the user can see what they have created with their input.
 
-d. As a result of undertaking this challenge, I am satisfied with the outcome of this challenge as I have a working solution despite a minor logic error. After vigorous testing and debugging, I have noticed the logic error is in my checkMines function which I have been unable to fix at this moment in time. I thoroughly enjoyed this exercise due to the challenge it provided and will attempt to fix the clue bug in the near future.
+d. As a result of undertaking this challenge, I am satisfied with the outcome of this challenge as I have a working solution despite a minor logic error. After much testing and debugging, I have noticed the logic error is in my checkMines function which I have been unable to fix at this moment in time. I thoroughly enjoyed this exercise due to the challenge it provided and will attempt to fix the clue bug in the near future.
